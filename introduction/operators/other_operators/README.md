@@ -2,5 +2,5 @@
 icon: folders
 ---
 
-# dart io
+# other operators
 

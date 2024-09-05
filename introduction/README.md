@@ -1,5 +1,4 @@
 ---
-description: x
 icon: folders
 ---
 

@@ -2,5 +2,5 @@
 icon: folders
 ---
 
-# classes
+# primitives data types
 
